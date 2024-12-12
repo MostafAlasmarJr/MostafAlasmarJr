@@ -35,7 +35,7 @@ Welcome to my GitHub! Here's a little about me:
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Mostafa Alasmar](https://www.linkedin.com/in/mostafa-alasmar/)
-- **Email**: yourname@example.com
+- **Email**: mostafaelasamr1999@gmail.com
 
 ---
 
